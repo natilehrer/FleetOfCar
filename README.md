@@ -1,17 +1,17 @@
 # FleetOfCars
 
-#BE
+# BE
 Open Comand Line with 
 1. "npm install joi"
 2. "node cars.js"
 
 
-#FE_fleet
+# FE_fleet
 Open Comand Line under this path.
 
-"npm install react"
-"npm install react-datepicker"
-"npm install react-dom"
-"npm install react-scripts"
-"npm install react-table"
-Then start with "npm start"
+1. "npm install react"
+2. "npm install react-datepicker"
+3. "npm install react-dom"
+4. "npm install react-scripts"
+5. "npm install react-table"
+6. Then start with "npm start"
