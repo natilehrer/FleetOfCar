@@ -3,6 +3,8 @@ This folder contains:
 -App.CSS
 -index.JS
 -index.CSS
+-package.json
+-package-lock.json
 
 -components
   -EditCarPage.JS
